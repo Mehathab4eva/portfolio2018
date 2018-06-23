@@ -1,7 +1,7 @@
 const express	= require('express');
 const exhbs		= require('express-handlebars');	
 const bodyParser= require('body-parser');
-const DATA 		= require('./Data/resumeData.js');
+const DATA 		= require('./data/resumeData.js');
 const mailer 	= require('./controlers/mailer.js');
 				
 
