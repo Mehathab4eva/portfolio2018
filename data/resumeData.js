@@ -3,19 +3,19 @@ const projects = [
 								{
 												name: "iCaluculate",
 												link: "https://razprojects.github.io/iCalculate/",
-												imgURL: "./images/i-caluculate.png"
+												imgURL: "./images/i-caluculate.PNG"
 								},
 
 								{
 								 				name: "designSite",
 								 				link: "https://razprojects.github.io/designSite/",
-								 				imgURL: "./images/design-site.png"
+								 				imgURL: "./images/design-site.PNG"
 								 },
 
 					  			 {
 					  							name: "to-do Lister",
 					  							link: "https://mehathab4eva.github.io/to-do-lister/",
-					  							imgURL: "./images/to-do-lister-.png"
+					  							imgURL: "./images/to-do-lister.PNG"
 					  			},
 
 					   			 {
