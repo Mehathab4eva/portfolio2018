@@ -15,7 +15,7 @@ const projects = [
 					  			 {
 					  							name: "to-do Lister",
 					  							link: "https://mehathab4eva.github.io/to-do-lister/",
-					  							imgURL: "./images/to-do-lister.PNG"
+					  							imgURL: "./images/to-do-lister.png"
 					  			},
 
 					   			 {
