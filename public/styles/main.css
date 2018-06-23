@@ -71,8 +71,8 @@ nav > a:hover{
 }
 
 .portfolio_img:hover{
-	transform: scale(1.1);
-	transition: 300ms ease-out;
+	transform: scale(1.050);
+	/*transition: 300ms ease-out;*/
 }
 
 
@@ -138,7 +138,7 @@ footer{
 }
 .projects > a {
 	color: #4a989a;
-	font-size: 30px;
+	font-size: 25px;
 }
 
 
