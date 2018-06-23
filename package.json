@@ -1,0 +1,32 @@
+{
+  "name": "portfolio2018",
+  "version": "1.0.0",
+  "description": "A simple portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mehathab4eva/portfolio2018.git"
+  },
+  "keywords": [
+    "mehathab",
+    "shaik\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+    "\u001b[C\u001b[C\u001b[C\u001b",
+    "mehathab4eva@gmail.com",
+    "mehathab.shaik@thedatacare.com"
+  ],
+  "author": "Mehathab Shaik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mehathab4eva/portfolio2018/issues"
+  },
+  "homepage": "https://github.com/Mehathab4eva/portfolio2018#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "nodemailer": "^4.6.7"
+  }
+}
