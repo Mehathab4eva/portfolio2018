@@ -1,31 +1,36 @@
 
 @media only screen and (max-width: 600px) {
 	h1{
-	min-width: 240px;
-	font-size: 24px;
+	
+	font-size: 20px;
 	line-height: 28px;
-	margin: 10px auto;
+	margin: 5px auto;
+	min-width: 200px;
+	padding: 5px 10px;
+	height: 7vh;
+	line-height: 7vh;
+	text-align: center;
 }
 
 nav > a {
-	font-size: 20px;
+	font-size: 13px;
 }
 
 .portfolio_img {
-    height: 268px;
-    width: 268px;
+    height: 225px;
+    width: 225px;
 
     }
 
 .hiThere > h2 {
-    font-size: 20px;
+    font-size: 14px;
 }
 
 
 header{
 	display: flex;
 	flex-direction: column;
-	max-height: 30vh;
+	height: 30vh;
 	width: 100vw;
 }
 
@@ -43,4 +48,119 @@ nav{
 	min-height: 70vh;
 }
 
+
+.eachProject {
+
+	width: 290px;
+}
+
+.projectPic {
+    height: 70px;
+    width: 210px;
+}
+
+.eachProject > p {
+    font-size: 17px;
+}
+
+.eachProject > a {
+	margin: 10px auto;
+}
+
+.eachProject > a > h2 {
+		margin: 10px auto;
+		font-size: 28px;
+	}
+.socialDiv, .summary {
+	flex-direction: column;
+	font-size: 11px;
+	margin: 10px;
+	padding: 0px;
+	min-width: 216px;
+}
+
+.socialDiv {
+	flex-direction: row;
+}
+
+.socialPic {
+    height: 50px;
+    width: 50px;
+    margin: 15px;
+
+}
+
+.skills > h2 {
+    font-size: 25px;
+    margin: 10px auto;
+}
+
+.skills >ul > li {
+    font-size: 11px;
+    padding: 5px;
+    margin:5px;
+}
+
+.skills >ul{
+	margin: 0 auto;
+	padding: 50px 20px;
+}
+
+#downArrow{
+	width: 60px;
+	height: 30px;
+	right: 1vw;
+}
+#upArrow{
+	right: 4vw;
+	width: 32px;
+    height: 30px;
+    top: 4vh;
+}
+
+.subHeadings {
+    font-size: 25px;
+}
+
+.career > h2 {
+    font-size: 30px;
+}
+
+.edu{
+	height: 60vh;
+}
+
+.companyCard {
+
+	height: 60vh;
+}
+
+.contact {
+	font-size: 27px;
+}
+
+.contactForm > div > input{
+	height: 22px;
+	width: 70vw;
+	font-size: 13px;
+}
+textarea {
+	font-size: 13px;
+	width: 70vw;
+}
+
+#submit {
+    width: 110px;
+    height: 35px;
+}
+
+.formContainer {
+
+height: 70vh;
+}
+.thankyou{
+	font-size: 20px;
+	text-align: center;
+	max-width: 70vw;
+}
 }
