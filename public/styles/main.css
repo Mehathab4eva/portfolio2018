@@ -114,6 +114,8 @@ footer{
 	text-align: center;
 	position: fixed;
 	bottom:  0px;
+	height: 5vh;
+	line-height: 1vh;
 }
 
 /*//projects */

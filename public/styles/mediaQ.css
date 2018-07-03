@@ -12,6 +12,12 @@
 	text-align: center;
 }
 
+footer{
+	line-height: 1vh;
+	height: 5vh;
+	font-size: 10px;
+}
+
 nav > a {
 	font-size: 13px;
 }
@@ -45,7 +51,7 @@ nav{
 }
 
 .homeDiv{
-	min-height: 70vh;
+	height: 60vh;
 }
 
 
@@ -136,7 +142,7 @@ nav{
 }
 
 .contact {
-	font-size: 27px;
+	font-size: 25px;
 }
 
 .contactForm > div > input{
@@ -156,11 +162,12 @@ textarea {
 
 .formContainer {
 
-height: 70vh;
+height: 60vh;
+min-height: 60vh;
 }
 .thankyou{
 	font-size: 20px;
 	text-align: center;
-	max-width: 70vw;
+	max-width: 80vw;
 }
 }
