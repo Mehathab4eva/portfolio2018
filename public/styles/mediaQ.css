@@ -1,0 +1,46 @@
+
+@media only screen and (max-width: 600px) {
+	h1{
+	min-width: 240px;
+	font-size: 24px;
+	line-height: 28px;
+	margin: 10px auto;
+}
+
+nav > a {
+	font-size: 20px;
+}
+
+.portfolio_img {
+    height: 268px;
+    width: 268px;
+
+    }
+
+.hiThere > h2 {
+    font-size: 20px;
+}
+
+
+header{
+	display: flex;
+	flex-direction: column;
+	max-height: 30vh;
+	width: 100vw;
+}
+
+nav{
+	
+	max-width: 300px;
+	margin: 0 auto;
+}
+
+.hiThere{
+	padding: 0px;
+}
+
+.homeDiv{
+	min-height: 70vh;
+}
+
+}

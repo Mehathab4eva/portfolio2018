@@ -2,10 +2,14 @@
 
 	{{#each data}}
 
-	<a href={{this.link}} target="_blank">
+	
 			<div class="eachProject">
-					<img class="projectPic" src={{this.imgURL}} />
-					<h2 class="projectName">{{this.name}}</h2>
+
+					<a href={{this.link}} target="_blank">
+						<img class="projectPic" src={{this.imgURL}} />
+						<h2 class="projectName">{{this.name}}</h2>
+					</a>
+					<p>{{this.about}}</p>
 			</div>		
 	</a>
 	{{/each}}

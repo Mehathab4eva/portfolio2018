@@ -1,27 +1,31 @@
 
 const projects = [ 
 								{
-												name: "iCaluculate",
+												name: "iCalculate",
 												link: "https://razprojects.github.io/iCalculate/",
-												imgURL: "./images/i-caluculate.PNG"
+												imgURL: "./images/i-caluculate.PNG",
+												about: `"A simple calculator app with not so simple parentheses application."`
 								},
 
 								{
 								 				name: "designSite",
 								 				link: "https://razprojects.github.io/designSite/",
-								 				imgURL: "./images/design-site.PNG"
+								 				imgURL: "./images/design-site.PNG",
+								 				about: `"A simple CSS linear gradient background code generator."`
 								 },
 
 					  			 {
 					  							name: "to-do Lister",
 					  							link: "https://mehathab4eva.github.io/to-do-lister/",
-					  							imgURL: "./images/to-do-lister.png"
+					  							imgURL: "./images/to-do-lister.png",
+					  							about: `"A simple to-do list maker."`
 					  			},
 
 					   			 {
 					   							name: "FairyTail",
 					   							link: "https://mehathab4eva.github.io/fairytail/",
-					   							imgURL: "./images/fairy-tail-logo.png"
+					   							imgURL: "./images/fairy-tail-logo.png",
+					   							about: `"A simple turn based RPG. Characters are from FairyTail(anime)."`
 				   			}
 				];
 
