@@ -9,9 +9,9 @@ const projects = [
 
 								{
 								 				name: "designSite",
-								 				link: "https://razprojects.github.io/designSite/",
-								 				imgURL: "./images/design-site.PNG",
-								 				about: `"A simple CSS linear gradient background code generator."`
+								 				link: "https://stormy-spire-60820.herokuapp.com/",
+								 				imgURL: "./images/designSite.PNG",
+								 				about: `"A simple React app generates CSS linear gradient background code."`
 								 },
 
 					  			 {
