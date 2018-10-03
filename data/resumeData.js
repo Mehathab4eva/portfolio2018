@@ -75,16 +75,16 @@ const education = [
 const work = [
 				{
 					workplace: 'Care Medical LLC',
-					position: 'Blockchain Mining Manager',
-					duration: 'Mar 2017 - Current',
-					workLocation: 'Price, UT',
+					position: 'Full Stack MERN Web Developer',
+					duration: 'Sept 2015 - Jul 2018',
+					workLocation: 'SLC, UT',
 					imgURL: "./images/cm-logo.png"
 				},
 				{
 					workplace: 'Data Care LLC',
-					position: 'Assistant Manager',
-					duration: 'Sept 2015 - Mar 2017',
-					workLocation: 'Salt Lake City, UT',
+					position: 'Jr Web Developer',
+					duration: 'Apr 2013 - Aug 2015',
+					workLocation: 'AP, India',
 					imgURL: "./images/dc-logo.png"
 				}
 				]
@@ -92,7 +92,7 @@ const work = [
  
 const data = {
 	summary	: `"Full Stack Web Developer.
-				A year of experience developing custom, interactive,
+				5 years of experience developing custom, interactive,
 				and responsive web applications while completing the U of U Coding Bootcamp. Currently seeking a role as a
 				Web Developer in a collaborative, cohesive, innovative environment where I can apply and extend my
 				technical and web application development skills."`,
